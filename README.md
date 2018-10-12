@@ -1,0 +1,2 @@
+# sequelizedBurger
+Burger Sequel
