@@ -1,0 +1,22 @@
+.container {
+    background-color: lightgray;
+
+}
+.burger-title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    
+}
+
+.lists {
+    border-left-style: solid;
+    border-radius: 1%;
+    border-color: lightslategray;
+    margin: 1%;
+}
+
+.burger-container {
+    background-color: lightgray;
+}
